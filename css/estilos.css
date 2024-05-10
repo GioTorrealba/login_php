@@ -68,14 +68,15 @@ a:hover {
 	padding: 15px;
 	text-align: center;
 	width: 48px;
-	max-height: 48px
+	max-height: 48px;
 	font-size: 18px;
 	line-height: 18px;
 	background: #c8c8c8;
 	display: inline-block;
 	color:#6b6b6b;
-	vertical-align: top;
+	vertical-align:top;
 }
+
 
 .formulario .icono.izquierda {
 	margin-right: 4px;
@@ -112,7 +113,7 @@ a:hover {
 	padding: 15px;
 	text-align: center;
 	width: 48px;
-	max-height: 48px
+	max-height: 48px;
 	font-size: 18px;
 	line-height: 18px;
 	background: #679863;
@@ -142,7 +143,7 @@ a:hover {
 	background: #fff;
 }
 
-.contenido article p{
+.contenido article p {
 	margin-bottom: 10px;
 	color:#000;
 }
